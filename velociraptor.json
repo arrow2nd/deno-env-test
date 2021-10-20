@@ -1,0 +1,8 @@
+{
+  "envFile": ".env",
+  "scripts": {
+    "start": {
+      "cmd": "deno run --allow-net=:8080 --allow-env ./main.js"
+    }
+  }
+}
